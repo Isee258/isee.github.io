@@ -6,6 +6,7 @@ body
     background: url('grape.gif');
     font-family: 'Overpass', sans-serif;
     font-style: bold;
+    text-align: center;   
     
 
 }
@@ -41,8 +42,8 @@ em
 a.lee
 {
     text-align: center;   
-font-size: 25px;
-color: black;
+    font-size: 25px;
+ color: black;
 
 
 }
