@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Overpass:400,700');
+
+
+body
+{
+    background: url('grape.gif');
+    font-family: 'Overpass', sans-serif;
+    font-style: bold;
+    
+
+}
+
+a:link {color:#D59933}
+a:visited {color:#D59933} 
+a:hover {color:#FC8F30}   
+a:active {color:#FC8F30} 
+
+h1
+{
+    font-weight: bold;
+    color: #4056A1;
+    font-size: 72px;
+    margin-left:45px;
+}
+
+h2
+{
+    margin-left: 320px;
+    margin-right: 150px;
+    color: black;
+    
+}
+
+mark
+{
+    background-color: #FD752C;
+    color: white;
+}
+
+em 
+{
+    font-style: normal;
+    font-weight: bold;
+    color: #FD752C;
+}
+
+a.content
+{
+    font-size: 45px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+p.info
+{
+        color: #946403;
+        font-size: 32px;
+        text-align: left;
+        margin-left: 320px;
+        margin-right: 150px;
+        padding-bottom: 5px;
+
+}
+
+  
