@@ -28,7 +28,7 @@ h2
 
 mark
 {
-    background-color: #FD752C;
+    background-color: #ed3824;
     color: white;
 }
 
@@ -42,7 +42,8 @@ em
 a.lee
 {
     text-align: center;   
-    font-size: 25px;
+    font-size: 35px;
+    font-weight: bold;
  color: black;
 
 
